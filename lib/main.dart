@@ -7,6 +7,7 @@ import 'package:scholar_chat/screens/login_screens.dart';
 import 'package:scholar_chat/screens/register_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+
 void main()async {
 
 
